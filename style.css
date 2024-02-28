@@ -1,0 +1,17 @@
+.tagp{
+    font-size: 200px;
+    color: red;
+}
+
+tr td{
+    background-color: blue;
+    height: 60px;
+    width: 200px;
+}
+
+/*ჯერ უნდა დაიწეროს tr მერე td თორე არ იმუშავებს*/
+
+.video{
+    width: 500px;
+    height: 300px;
+}
